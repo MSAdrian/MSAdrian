@@ -42,7 +42,7 @@ Soy un apasionado desarrollador web en constante aprendizaje, enfocado en crear 
 ## 📫 Contacto
 
 - **Correo electrónico**: [msadrian46@gmail.com.com](mailto:msadrian46@gmail.com)
-- **LinkedIn**: [Adrián Martínez](https://www.linkedin.com/in/adrianmartinez)
+- **LinkedIn**: [Adrián Martínez](in/adri%C3%A1nmart%C3%ADnez)
 - **Portfolio**: [Mi Portafolio](https://adrianmartinez.github.io/portfolio)
 
 
